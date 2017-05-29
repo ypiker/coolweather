@@ -6,4 +6,4 @@
         <mapping class="com.example.coolweather.db.City"/>
         <mapping class="com.example.coolweather.db.County"/>
     </list>
-    </litepal>
+</litepal>
